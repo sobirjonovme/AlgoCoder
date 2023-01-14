@@ -19,14 +19,13 @@ class Solution:
                 continue
             result += i
         
-        return result
-                
+        return result  
 
 
 if __name__ == '__main__':
     sol = Solution()
 
-    s = "hello"
+    # s = "hello"
     s = "leetcode"
 
     print(f"Result:   {sol.reverseVowels(s)}")
