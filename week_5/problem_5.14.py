@@ -34,8 +34,8 @@ class Solution:
 if __name__ == '__main__':
     sol = Solution()
 
-    s = "aba"
-    # s = "abca"
-    # s = "abc"
+    # s = "aba"
+    s = "abca"
+    s = "abc"
 
     print(f"Result:   {sol.validPalindrome(s)}")
