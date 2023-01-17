@@ -21,13 +21,13 @@ class Solution:
 if __name__ == '__main__':
     sol = Solution()
 
-    # example 1
-    words = ["mass","as","hero","superhero"]
+    # # example 1
+    # words = ["mass","as","hero","superhero"]
 
     # # example 2
     # words = ["leetcode","et","code"]
 
-    # # example 3
-    # words = ["blue","green","bu"]
+    # example 3
+    words = ["blue","green","bu"]
 
     print(f"Result:   {sol.stringMatching(words)}")
