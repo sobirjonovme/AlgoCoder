@@ -14,10 +14,10 @@ def countGoodTriplets(arr: list[int], a: int, b: int, c: int) -> int:
 
     return count
 
-arr = [3, 0, 1, 1, 9, 7]
-a = 7
-b = 2
-c = 3
+# arr = [3, 0, 1, 1, 9, 7]
+# a = 7
+# b = 2
+# c = 3
 
 arr = [1, 1, 2, 2, 3]
 a = 0
