@@ -2,7 +2,6 @@
 
 
 class Solution:
-
     def count_words(self, s: str) -> int:
         if s == '':
             return 0
