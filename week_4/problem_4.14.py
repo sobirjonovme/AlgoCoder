@@ -28,8 +28,8 @@ class Solution:
 if __name__ == '__main__':
     sol = Solution()
 
-    s = "011101"
+    # s = "011101"
     # s = "00111"
-    # s = "1111"
+    s = "1111"
 
     print(f"Result:   {sol.maxScore(s)}")
