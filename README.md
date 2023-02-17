@@ -12,13 +12,11 @@ The `AlgoCoder` repository is a valuable resource for anyone interested in algor
 - Well-documented and easy-to-understand code
 
 ## Technologies Used
-The `AlgoCoder` repository was created using a variety of technologies, including:
-- Python
-
-These technologies were chosen for their ease of use and versatility, making them ideal for algorithmic problem-solving.
+The `AlgoCoder` repository was created mainly using <b> `Python` </b> programming language. <br>
+These technology were chosen for their ease of use and versatility, making them ideal for algorithmic problem-solving.
 
 ## Contributions
-While the solutions in this repository were prepared by one member of the group, other members are welcome to contribute their own solutions by submitting a pull request. The repository's maintainers will be happy to review and merge your changes.
+While the solutions in this repository were prepared by one member of the group, other people are welcome to contribute their own solutions by submitting a pull request. The repository's maintainers will be happy to review and merge your changes.
 
 ## Conclusion
 The `AlgoCoder` repository is a valuable resource for anyone interested in algorithmic problem-solving. Whether you're just starting out or you're an experienced programmer looking to expand your knowledge, the `AlgoCoder` repository has something for everyone. Get started with the repository today and explore the world of algorithms! 
